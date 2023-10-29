@@ -1,0 +1,36 @@
+{
+  "From" : "0.1.1",
+  "To" : "0.1.2",
+  "Hash" : "5+pOGYkkRnDSWhwLiRoJPxm/d5g",
+  "TotalSize" : 5694,
+  "Entries" : [
+    {
+      "Operation" : 2,
+      "RelativePath" : "TestPatch_Data/boot.config",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:06:41Z",
+      "Size" : 164
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "TestPatch_Data/level0",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:06:41Z",
+      "Size" : 20096
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "TestPatch_Data/level1",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:06:41Z",
+      "Size" : 6080
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "version.data",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:06:51Z",
+      "Size" : 24
+    }
+  ]
+}
