@@ -1,0 +1,43 @@
+{
+  "From" : "0.1.3",
+  "To" : "0.1.4",
+  "Hash" : "tgXzO3D0qm6yUWPwhplW2gaba88",
+  "TotalSize" : 4714,
+  "Entries" : [
+    {
+      "Operation" : 2,
+      "RelativePath" : "TestPatch_Data/boot.config",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:22:50Z",
+      "Size" : 164
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "TestPatch_Data/level1",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:22:49Z",
+      "Size" : 7832
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "TestPatch_Data/sharedassets1.assets",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:22:49Z",
+      "Size" : 1304
+    },
+    {
+      "Operation" : 4,
+      "RelativePath" : "TestPatch_Data/sharedassets1.assets.resS",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:22:49Z",
+      "Size" : 5472
+    },
+    {
+      "Operation" : 2,
+      "RelativePath" : "version.data",
+      "Attributes" : 32,
+      "LastWriting" : "2023-10-29 12:22:54Z",
+      "Size" : 24
+    }
+  ]
+}
